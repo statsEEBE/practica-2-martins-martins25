@@ -33,3 +33,4 @@ Rsq=sum((ypredict-mean(y))^2)/sum((y-mean(y))^2)
 Rsq
 
 summary(mod)
+
